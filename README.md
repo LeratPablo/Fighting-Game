@@ -43,6 +43,15 @@ The objective of the game is to defeat the opposing player by reducing their hea
 
 During a turn, the player can choose one skill to use against the opponent. The opponent can then choose a skill to use on their turn. The game continues until one player's health points reach zero.
 
+![Main menu](https://github.com/LeratPablo/Fighting-Game/blob/main/README_Assets/Capture%20d'%C3%A9cran%202023-04-02%20210138.png)
+Main menu
+
+![Player 1](https://github.com/LeratPablo/Fighting-Game/blob/main/README_Assets/Capture%20d'%C3%A9cran%202023-04-02%20210146.png)
+Player 1
+
+![Win](https://github.com/LeratPablo/Fighting-Game/blob/main/README_Assets/Capture%20d'%C3%A9cran%202023-04-02%20210315.png)
+Victory screen
+
 ---
 
 ### Credits
